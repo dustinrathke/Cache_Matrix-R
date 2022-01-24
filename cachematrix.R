@@ -1,5 +1,5 @@
 ##Caching the Inverse of a Matrix
-##Due to the intensive requirements of matrix inversion
+##Due to the intensive requirements of matrix inversion,
 ##these functions are used to create a special object
 ##that cahces the inverse of a matrix and stores it.
 
